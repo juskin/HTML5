@@ -26,13 +26,14 @@ header {
 	width:960px;
 	padding:20px;
 	background:black;
-	color:#ccc; 
+	color:#FFFFFF; 
 	}
 	
 nav { 
 	float:left; 
 	width:210px; 
 	margin:20px;
+	color:#808080;
 	}
 	nav ul { 
 		list-style:none; 
